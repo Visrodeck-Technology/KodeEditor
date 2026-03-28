@@ -1,6 +1,6 @@
 // src/pages/labs/JanePanel.jsx
 // Floating command-palette style AI assistant
-// Calls Anthropic API directly via IPC from main process
+// Changes Needed !
 
 import { useState, useRef, useEffect } from "react";
 
